@@ -1,0 +1,10 @@
+Delivery.Core/bin/
+Delivery.Core/obj/
+Delivery.Infrastructure/obj/
+Delivery.Infrastructure/bin/
+Delivery.Infrastructure/Migrations/
+Delivery.WebApi/obj/
+Delivery.WebApi/bin/
+.DS_Store
+
+.idea/
